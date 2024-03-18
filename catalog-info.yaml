@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: "postgress-local"
 links:
-  - url: https://github.com/RobertoMitsu/postgress-local
+  - url: https://github.com/RobertoMitsu
     title: teste de componente
     icon: dashboard
 spec:

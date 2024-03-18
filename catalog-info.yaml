@@ -1,7 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "backstage"
+  name: "postgress-local"
+links:
+  - url: https://github.com/RobertoMitsu/postgress-local
+    title: teste de componente
+    icon: dashboard
 spec:
   type: service
   owner: teste
